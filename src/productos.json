@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pan",
+        "precio": "$5300 x Kg"
+    },
+    {
+        "id": 2,
+        "nombre": "Torta frita",
+        "precio": "$850 c/u"
+    },
+    {
+        "id": 3,
+        "nombre": "Galletas",
+        "precio": "$100 c/u"
+    },
+    {
+        "id": 4,
+        "nombre": "Medialuna",
+        "precio": "$400 c/u"
+    },
+    {
+        "id": 5,
+        "nombre": "Bizcochos",
+        "precio": "$1200 100gr"
+    },
+    {
+        "id": 6,
+        "nombre": "Facturas",
+        "precio": "$350 c/u"
+    }
+]
